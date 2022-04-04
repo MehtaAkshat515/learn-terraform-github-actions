@@ -15,7 +15,7 @@ terraform {
     organization = "nirma"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "test-github-actions"
     }
   }
 }
